@@ -1,0 +1,897 @@
+[
+  {
+    "slug": "schulz-et-al-2026-white-male-privilege",
+    "pdf": "schulz-et-al-2026-white-male-privilege.pdf",
+    "title": "Excessive White Male Privilege Biases the Measurement of Intersectional Wage Discrimination",
+    "authors": "Jan Schulz, Caleb E. Agoha, Anna Gebhard, Bettina Gregg & Daniel M. Mayerhoffer",
+    "year": 2026,
+    "group": "Published research",
+    "status": "Published",
+    "venue": "Humanities and Social Sciences Communications 13:631",
+    "doi": "https://doi.org/10.1057/s41599-026-06822-y",
+    "tags": [
+      "inequality",
+      "intersectionality",
+      "wages"
+    ],
+    "abstract": "We study how overlapping identities shape wage gaps, focusing on gender and race in the United States. The standard empirical operationalisation of intersectionality can be fragile because its reference-group convention may omit a wage premium uniquely accruing to White men. We propose a structural decomposition of group mean wages that allocates observed gaps into gender, race, and an interaction component. The interaction can be interpreted either as an intersectional penalty or as excessive privilege. Applying the framework to U.S. wage data and adjusted gaps from existing studies, we find persistent evidence of excessive White male privilege and little evidence of an additional intersectional penalty in wages. We also examine redistribution rules that use the estimated excess premium as a tax base.",
+    "figure": "assets/figures/schulz-et-al-2026-white-male-privilege.webp",
+    "related": [
+      [
+        "BERG Working Paper 194",
+        "https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/sowi_faecher/vwl/BERG/BERG_194.pdf"
+      ]
+    ],
+    "themes": [
+      "inequality"
+    ]
+  },
+  {
+    "slug": "ipsen-schulz-2026-production-networks-inequality",
+    "pdf": "ipsen-schulz-2026-production-networks-inequality.pdf",
+    "title": "The (Dis)Equalizing Effects of Production Networks",
+    "authors": "Leonhard Ipsen & Jan Schulz",
+    "year": 2026,
+    "group": "Published research",
+    "status": "Published",
+    "venue": "Applied Economics Letters 33(6): 830–834",
+    "doi": "https://doi.org/10.1080/13504851.2024.2396557",
+    "tags": [
+      "production networks",
+      "inflation",
+      "inequality"
+    ],
+    "abstract": "We suggest and empirically substantiate that the global production network constitutes an important variable for inflation inequality, as it modulates the impact of cost-push shocks on households. For most price shocks, the production network reduces inflation inequality, however, at the expense of lower-income households. Introducing a synthetic Consumer Price Index indicates lower-income households to be at the losing end of the overall effect of supply-side price shocks",
+    "figure": "assets/figures/ipsen-schulz-2026-production-networks-inequality.webp",
+    "related": [],
+    "themes": [
+      "macro",
+      "inequality"
+    ]
+  },
+  {
+    "slug": "schulz-mayerhoffer-2026-consumption-emulation-demand-regimes",
+    "pdf": "schulz-mayerhoffer-2026-consumption-emulation-demand-regimes.pdf",
+    "title": "Consumption Emulation and Demand Regimes: An Inclusive Modeling Approach",
+    "authors": "Jan Schulz & Daniel M. Mayerhoffer",
+    "year": 2026,
+    "group": "Published research",
+    "status": "Published",
+    "venue": "Review of Political Economy 38(2): 589–612",
+    "doi": "https://doi.org/10.1080/09538259.2023.2298746",
+    "tags": [
+      "consumption",
+      "networks",
+      "inequality"
+    ],
+    "abstract": "Personal income distributions robustly follow a two-class structure, with an exponential bulk of labour income accruing to the lower 95 - 99 % population share and an upper Pareto tail of the 1 - 5% richest, where capital income is concentrated. The implications of this regularity for macroeconomic outcomes, especially aggregate consumption, are not yet fully understood, though. We introduce this two-class structure into a Post-Keynesian consumption model with workers and capitalists corresponding to the two classes within the personal distribution. Agents consume according to idiosyncratic and social motives. Status consumption is microfounded within a perception network that replicates empirically observed inequality and social self-perceptions. Our findings indicate that the non-market interactions in perception networks are potentially highly relevant for aggregate outcomes and that they can shed some light on recent puzzles in the Post-Keynesian literature on growth regimes. In particular, we show how network segregation can explain differences in the degree of ‘wage-ledness’ of aggregate consumption. Aggregate representations of consumption might thus be misleading. Empirical studies should therefore take the regularities both in the income distribution as well as social network topologies into account. ARTICLE HISTORY Received 27 April 2023 Accepted 13 December 2023",
+    "figure": "assets/figures/schulz-mayerhoffer-2026-consumption-emulation-demand-regimes.webp",
+    "related": [],
+    "themes": [
+      "inequality",
+      "complexity"
+    ]
+  },
+  {
+    "slug": "mayerhoffer-schulz-2026-social-segregation-misperceptions",
+    "pdf": "mayerhoffer-schulz-2026-social-segregation-misperceptions.pdf",
+    "title": "Social Segregation, Misperceptions, and Emergent Cyclical Choice Patterns",
+    "authors": "Daniel M. Mayerhoffer & Jan Schulz",
+    "year": 2026,
+    "group": "Published research",
+    "status": "Published",
+    "venue": "Public Choice 207: 611–644",
+    "doi": "https://doi.org/10.1007/s11127-025-01349-3",
+    "tags": [
+      "inequality perceptions",
+      "networks",
+      "redistribution"
+    ],
+    "abstract": "We examine the puzzle of why economic inequality has not resulted in political measures to mitigate it, and we propose that the reason is that segregation in social networks causes people to misperceive inequality. We model taxation and voting behavior with an expo nential income distribution and a Random Geometric Graph–type model to represent ho mophily, which leads people to perceive their own income rank and income to be close to the middle. We assume that people base their beliefs about mean income on a compound of the true mean and their local perception in the network, and that higher homophily causes lower implemented tax rates, which explains why redistribution preferences appear decoupled from actual inequality. In a dynamic extension, we also demonstrate that a rich set of dynamic behaviors can emerge from rational updating beliefs about efficiency and societal average income. The modeled misperceptions not only decrease redistribution in a static setting but hinder agents from adapting and learning the unbiased tax rate in a dynamic setting",
+    "figure": "assets/figures/mayerhoffer-schulz-2026-social-segregation-misperceptions-v3.webp",
+    "related": [
+      [
+        "BERG Working Paper 186",
+        "https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/sowi_faecher/vwl/BERG/BERG_186.pdf"
+      ]
+    ],
+    "themes": [
+      "inequality",
+      "complexity"
+    ],
+    "projects": [
+      "e-lernen",
+      "social-comparisons"
+    ]
+  },
+  {
+    "slug": "ipsen-aminian-schulz-2025-inflation-exposure",
+    "pdf": "ipsen-aminian-schulz-2025-inflation-exposure.pdf",
+    "title": "Stress Testing Inflation Exposure: Systemically Significant Prices and Asymmetric Shock Propagation in the EU",
+    "authors": "Leonhard Ipsen, Armin Aminian & Jan Schulz",
+    "year": 2025,
+    "group": "Published research",
+    "status": "Published",
+    "venue": "Structural Change and Economic Dynamics 74: 713–724",
+    "doi": "https://doi.org/10.1016/j.strueco.2025.05.010",
+    "tags": [
+      "inflation",
+      "production networks",
+      "Europe"
+    ],
+    "abstract": "This paper documents asymmetries in price shock exposure for the EU, EU core and periphery within the global production network. Building on the foundational work of Weber et al. (2024a), we run a cost-push stress-test using data from the World Input Output Database to estimate a region’s exposure to globally originating and propagating price shocks. We confirm the existence of systemically significant sectors which dominate the overall price level. While the final goods price effects of various sectors are significant, about half are the result of higher-order propagation. This indirect effect is even larger for peripheral countries. Tracing disaggregated shock trajectories uncovers that price volatility originating in core and non-EU countries impacts the peripheral countries more than vice versa. Simultaneously, our method of recovering consumption substitution effects shows that substitution is more limited in the European periphery. The stark asymmetries in exposure have profound implications for fiscal and monetary policy",
+    "figure": "assets/figures/ipsen-aminian-schulz-2025-inflation-exposure.webp",
+    "related": [],
+    "themes": [
+      "macro"
+    ]
+  },
+  {
+    "slug": "weber-schulz-2025-growing-differently-regional-cohesion",
+    "pdf": "weber-schulz-2025-growing-differently-regional-cohesion.pdf",
+    "title": "Growing Differently: European Integration and Regional Cohesion",
+    "authors": "Jan David Weber & Jan Schulz",
+    "year": 2025,
+    "group": "Published research",
+    "status": "Published",
+    "venue": "Journal of Economic Issues 59(3): 894–912",
+    "doi": "https://doi.org/10.1080/00213624.2025.2533723",
+    "tags": [
+      "regional inequality",
+      "Europe",
+      "stochastic growth"
+    ],
+    "abstract": "We document two novel stylized facts on European integration and cohesion. First, we show that the interregional income distribution, measured as GDP per capita at the NUTS-3 (Nomenclature des unités territoriales statistiques) level, is bimodal for all considered years. Second, we demonstrate that this mixture of two log-normal distributions provides an excellent fit for this interregional distribution in all considered years. We put forward two meso-level interpretations of these stylized facts, based on heterodox growth theory: The log-normality of the individual clusters hints at a cumulative growth process, where growth is strongly path-dependent. However, the bimodality in the income distributions also implies two separate growth mechanisms. We show that the high-variance log-normal distribution governs the dynamics at both tails of the income distribution, which might be interpreted as the core and periphery, and the low-variance variant the bulk of the distribution, thus interpretable as a semi-periphery. Based on these theoretical mechanisms, we propose a taxonomy of European regions that is not based on arbitrary GDP thresholds",
+    "figure": "assets/figures/weber-schulz-2025-growing-differently-regional-cohesion.webp",
+    "related": [
+      [
+        "Project description on Jan Weber’s website",
+        "https://www.janweber.org/research/inequality-in-europe"
+      ]
+    ],
+    "themes": [
+      "macro",
+      "complexity",
+      "history"
+    ]
+  },
+  {
+    "slug": "schulz-mayerhoffer-2024-social-sampling-self-anchoring",
+    "pdf": "schulz-mayerhoffer-2024-social-sampling-self-anchoring.pdf",
+    "title": "Social Sampling, Self-Anchoring and Redistribution",
+    "authors": "Jan Schulz & Daniel M. Mayerhoffer",
+    "year": 2024,
+    "group": "Published research",
+    "status": "Published",
+    "venue": "Economics Letters 244: 111942",
+    "doi": "https://doi.org/10.1016/j.econlet.2024.111942",
+    "tags": [
+      "inequality perceptions",
+      "redistribution",
+      "social sampling"
+    ],
+    "abstract": "We examine the effect that agents anchor their perceptions of societal mean incomes on their own incomes. We show analytically and verify by numerical simulation that self-anchoring can lead to substantial misperceptions even when sampling is unbiased and fully random, especially when the sampling ratio is small. Within a Meltzer–Richard framework, we then demonstrate that self-anchoring leads to a decrease in implemented redistribution.",
+    "figure": "assets/figures/schulz-mayerhoffer-2024-social-sampling-self-anchoring.webp",
+    "related": [],
+    "themes": [
+      "inequality"
+    ],
+    "projects": [
+      "social-comparisons"
+    ]
+  },
+  {
+    "slug": "schulz-milakovic-2023-how-wealthy-are-the-rich",
+    "pdf": "schulz-milakovic-2023-how-wealthy-are-the-rich.pdf",
+    "title": "How Wealthy Are the Rich?",
+    "authors": "Jan Schulz & Mishael Milaković",
+    "year": 2023,
+    "group": "Published research",
+    "status": "Published",
+    "venue": "Review of Income and Wealth 69(1): 100–123",
+    "doi": "https://doi.org/10.1111/roiw.12550",
+    "tags": [
+      "wealth inequality",
+      "power laws",
+      "measurement"
+    ],
+    "abstract": "Underreporting and undersampling biases in top-tail wealth, although widely acknowledged, have not been statistically quantified because they are not readily observable. We exploit the functional form of power-law-like regimes in top-tail wealth to derive analytical expressions for these biases. Using German survey microdata and a rich list, we show that tiny differences in non-response rates can produce tail-wealth estimates that differ by an order of magnitude. Underreporting compounds the problem, and estimates of totals in scale-free systems can become spurious. The results also question whether available data can reliably distinguish scale- or type-dependence in returns to wealth from statistical bias.",
+    "figure": "assets/figures/schulz-milakovic-2023-how-wealthy-are-the-rich-v2.webp",
+    "related": [
+      [
+        "Böckler Impuls: Unterschätzter Reichtum",
+        "https://www.boeckler.de/de/boeckler-impuls-unterschatzter-reichtum-37298.htm"
+      ],
+      [
+        "Stepstone interview: Ab wann ist man reich?",
+        "https://www.stepstone.de/magazin/artikel/ab-wann-ist-man-reich"
+      ],
+      [
+        "X/Twitter thread",
+        "https://twitter.com/MishaMilakovic/status/1463895449241276420"
+      ]
+    ],
+    "themes": [
+      "inequality",
+      "complexity"
+    ]
+  },
+  {
+    "slug": "schulz-mayerhoffer-2023-expenditure-cascades",
+    "pdf": "schulz-mayerhoffer-2023-expenditure-cascades.pdf",
+    "title": "A Network Approach to Expenditure Cascades",
+    "authors": "Jan Schulz & Daniel M. Mayerhoffer",
+    "year": 2023,
+    "group": "Published research",
+    "status": "Published",
+    "venue": "Review of Behavioral Economics 10(3): 229–262",
+    "doi": "https://doi.org/10.1561/105.00000174",
+    "tags": [
+      "consumption",
+      "networks",
+      "inequality"
+    ],
+    "abstract": "The nexus between debt and inequality has attracted considerable scholarly attention in the wake of the global financial crisis. One prominent candidate to explain the co-evolution of income inequality and private debt has been upward-looking consumption externalities leading to expenditure cascades. We propose a parsimonious model of upward-looking consumption at the micro level mediated by perception networks with empirically plausible topologies. The model, based purely on current income, replicates major stylised facts of micro consumption behaviour and is observationally equivalent to the workhorse permanent-income hypothesis without facing its dual problem of excess smoothness and excess sensitivity. We also show that network topology and segregation have a significant effect on consumption patterns that has so far been neglected.",
+    "figure": "assets/figures/schulz-mayerhoffer-2023-expenditure-cascades.webp",
+    "related": [
+      [
+        "arXiv preprint",
+        "https://arxiv.org/abs/2203.14259"
+      ],
+      [
+        "BERG Working Paper 173",
+        "https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/sowi_faecher/vwl/BERG/BERG_173.pdf"
+      ],
+      [
+        "X/Twitter thread",
+        "https://twitter.com/janschulz91/status/1568970817106776065"
+      ]
+    ],
+    "themes": [
+      "inequality",
+      "complexity"
+    ]
+  },
+  {
+    "slug": "schulz-mayerhoffer-gebhard-2023-soziale-vergleiche",
+    "pdf": "schulz-mayerhoffer-gebhard-2023-soziale-vergleiche.pdf",
+    "title": "Soziale Vergleiche und wahrgenommene Ungleichheit",
+    "authors": "Jan Schulz, Daniel M. Mayerhoffer & Anna Gebhard",
+    "year": 2023,
+    "group": "Published research",
+    "status": "Published summary",
+    "venue": "Der öffentliche Sektor – The Public Sector 48(2): 15–18",
+    "doi": "",
+    "tags": [
+      "inequality perceptions",
+      "networks"
+    ],
+    "abstract": "Die öffentliche Wahrnehmung von ökonomischer Ungleichheit ist oft stark verzerrt. Solche Fehlwahrnehmungen beeinflussen subjektives Wohlbefinden, Umverteilungspräferenzen sowie Wahl- und Konsumverhalten. Der Beitrag fasst einen Netzwerkansatz zusammen, in dem die Akteur*innen aus ihrem wahrgenommenen sozialen Netzwerk auf die Gesamtgesellschaft extrapolieren. Einkommenshomophilie und soziale Segregation können so zentrale stilisierte Fakten verzerrter Ungleichheitswahrnehmungen erklären, ohne kognitive Verzerrungen vorauszusetzen.",
+    "figure": "assets/figures/schulz-mayerhoffer-gebhard-2023-soziale-vergleiche.webp",
+    "related": [
+      [
+        "Article page",
+        "https://oes.tuwien.ac.at/article/id/643/"
+      ],
+      [
+        "Laudatory speech",
+        "https://oes.tuwien.ac.at/article/id/644/"
+      ]
+    ],
+    "themes": [
+      "inequality"
+    ],
+    "projects": [
+      "social-comparisons"
+    ]
+  },
+  {
+    "slug": "schulz-mayerhoffer-gebhard-2022-inequality-perceptions",
+    "pdf": "schulz-mayerhoffer-gebhard-2022-inequality-perceptions.pdf",
+    "title": "A Network-Based Explanation of Inequality Perceptions",
+    "authors": "Jan Schulz, Daniel M. Mayerhoffer & Anna Gebhard",
+    "year": 2022,
+    "group": "Published research",
+    "status": "Published",
+    "venue": "Social Networks 70: 306–324",
+    "doi": "https://doi.org/10.1016/j.socnet.2022.02.007",
+    "tags": [
+      "inequality perceptions",
+      "homophily",
+      "networks"
+    ],
+    "abstract": "Across income groups and countries, individual citizens perceive economic inequality spectacularly wrong. These misperceptions have far-reaching consequences, as it might be perceived inequality, not actual inequality informing redistributive preferences. The prevalence of this phenomenon is independent of social class and welfare regime, which suggests the existence of a common mechanism behind public perceptions. The literature has identified several stylised facts on how individual perceptions respond to actual inequality and how these biases vary systematically along the income distribution. We propose a network-based explanation of perceived inequality building on recent advances in random geometric graph theory. The generating mechanism can replicate all of aforementioned stylised facts simultaneously. It also produces social networks that exhibit salient features of real-world networks; namely, they cannot be statistically distinguished from small-world networks, testifying to the robustness of our approach. Our results, therefore, suggest that homophilic segregation is a promising candidate to explain inequality perceptions with strong implications for theories of consumption and voting behaviour",
+    "figure": "assets/figures/schulz-mayerhoffer-gebhard-2022-inequality-perceptions-v2.webp",
+    "related": [
+      [
+        "arXiv preprint",
+        "https://arxiv.org/abs/2203.14254"
+      ],
+      [
+        "Project page",
+        "https://www.uni-bamberg.de/poltheorie/forschung/social-comparisons-and-inequality-perception-in-homophilic-networks/"
+      ],
+      [
+        "Replication code",
+        "https://github.com/mayerhoffer/Inequality-Perception"
+      ],
+      [
+        "Podcast: In der Wirtschaft",
+        "https://inderwirtschaft.de/2024/01/15/folge-61-daniel-mayerhoffer-jan-schulz-gebhard/"
+      ],
+      [
+        "Münchener Merkur coverage",
+        "https://www.merkur.de/verbraucher/einkommen-gehalt-vermoegen-wann-sie-reich-gelten-deutschland-reichtum-zr-92904914.html"
+      ]
+    ],
+    "themes": [
+      "inequality",
+      "complexity"
+    ],
+    "projects": [
+      "social-comparisons"
+    ]
+  },
+  {
+    "slug": "mayerhoffer-schulz-2022-perception-privilege",
+    "pdf": "mayerhoffer-schulz-2022-perception-privilege.pdf",
+    "title": "Perception and Privilege",
+    "authors": "Daniel M. Mayerhoffer & Jan Schulz",
+    "year": 2022,
+    "group": "Published research",
+    "status": "Published",
+    "venue": "Applied Network Science 7:32",
+    "doi": "https://doi.org/10.1007/s41109-022-00467-x",
+    "tags": [
+      "gender inequality",
+      "racial inequality",
+      "networks"
+    ],
+    "abstract": "Inequality perceptions differ along racial and gendered lines. To explain these dispari- ties, we propose an agent-based model of localised perceptions of the gender and racial wage gap in networks. We show that the combination of homophilic graph formation and estimation based on locally limited knowledge can replicate both the underestimation of the gender or racial wage gap that empirical studies find and the well-documented fact that the underprivileged perceive the wage gap to be higher on average and with less bias. Similarly, we demonstrate that the underprivileged perceive overall inequality to be higher on average. In contrast to this qualitative replication, we also show that the effect of homophilic graph formation is quantitatively too strong to account for the empirically observed effect sizes within a recent Israeli sample on per- ceived gender wage gaps. As a parsimonious extension, we let agents estimate using a composite signal based on local and global information. Our calibration suggests that women place much more weight on the (correct) global signal than men, in line with psychological evidence that people adversely affected by group-based inequities pay more attention to global information about the issue. Our findings suggest that (educational) interventions about the global state of gender equality are much more likely to succeed than information treatments about overall inequality and that these interventions should target the privileged",
+    "figure": "assets/figures/mayerhoffer-schulz-2022-perception-privilege.webp",
+    "related": [
+      [
+        "GENIAL audience award",
+        "https://blog.uni-bamberg.de/campus/2022/nachbericht-festakt/"
+      ],
+      [
+        "X/Twitter thread",
+        "https://twitter.com/MayerhofferD/status/1534893945200705544"
+      ]
+    ],
+    "themes": [
+      "inequality"
+    ],
+    "projects": [
+      "social-comparisons"
+    ]
+  },
+  {
+    "slug": "schulz-mayerhoffer-2021-equal-chances-unequal-outcomes",
+    "pdf": "schulz-mayerhoffer-2021-equal-chances-unequal-outcomes.pdf",
+    "title": "Equal Chances, Unequal Outcomes? Network-Based Evolutionary Learning and the Industrial Dynamics of Superstar Firms",
+    "authors": "Jan Schulz & Daniel M. Mayerhoffer",
+    "year": 2021,
+    "group": "Published research",
+    "status": "Published",
+    "venue": "Journal of Business Economics 91: 1357–1385",
+    "doi": "https://doi.org/10.1007/s11573-021-01047-8",
+    "tags": [
+      "industrial dynamics",
+      "agent-based modelling",
+      "networks"
+    ],
+    "abstract": "With the advent of platform economies and the increasing availability of online price comparisons, many empirical markets now select on relative rather than abso- lute performance. This feature might give rise to the ‘winner takes all/most’ phe- nomenon, where tiny initial productivity differences amount to large differences in market shares. We study the effect of heterogeneous initial productivities arising from locally segregated markets on aggregate outcomes, e.g., regarding revenue dis- tributions. Several of those firm-level characteristics follow distributional regulari- ties or ‘scaling laws’ (Brock in Ind Corp Change 8(3):409–446, 1999). Among the most prominent are Zipf’s law describing the largest firms‘ extremely concentrated size distribution and the robustly fat-tailed nature of firm size growth rates, indi- cating a high frequency of extreme growth events. Dosi et al. (Ind Corp Change 26(2):187–210, 2017b) recently proposed a model of evolutionary learning that can simultaneously explain many of these regularities. We propose a parsimoni- ous extension to their model to examine the effect for deviations in market structure from global competition, implicitly assumed in Dosi et al. (2017b). This extension makes it possible to disentangle the effects of two modes of competition: the global competition for sales and the localised competition for market power, giving rise to industry-specific entry productivity. We find that the empirically well-established combination of ‘superstar firms’ and Zipf tail is consistent only with a knife-edge scenario in the neighbourhood of most intensive local competition. Our model also contests the conventional wisdom derived from a general equilibrium setting that maximum competition leads to minimum concentration of revenue (Silvestre in J Econ Lit 31(1):105–141, 1993). We find that most intensive local competition leads to the highest concentration, whilst the lowest concentration appears for a mild degree of (local) oligopoly. Paradoxically, a level playing field in initial conditions might induce extreme concentration in market outcomes",
+    "figure": "assets/figures/schulz-mayerhoffer-2021-equal-chances-unequal-outcomes-v2.webp",
+    "related": [
+      [
+        "Project page",
+        "https://www.uni-bamberg.de/poltheorie/forschung/abgeschlossene-projekte/poltheorie-abgeschlossene-projekte-poltheorie-forschung-poltheorie-forschung-poltheorie-forschung-poltheorie-forschung-abgeschlossene-projekte-evolutionary-learning-in-industrial-dynamics/"
+      ],
+      [
+        "Replication code",
+        "https://github.com/mayerhoffer/industrialdynamics-evolutionarylearning"
+      ],
+      [
+        "X/Twitter thread",
+        "https://twitter.com/janschulz91/status/1402276775321817100"
+      ]
+    ],
+    "themes": [
+      "complexity"
+    ]
+  },
+  {
+    "slug": "samartzidis-mundt-schulz-production-networks-labor-share",
+    "pdf": "samartzidis-mundt-schulz-production-networks-labor-share.pdf",
+    "title": "Production Networks, Input Specificity, and the Labor Share",
+    "authors": "Lasare Samartzidis, Philipp Mundt & Jan Schulz",
+    "year": 2026,
+    "group": "Manuscripts & working papers",
+    "status": "R&R",
+    "venue": "BERG Working Paper 198 · R&R at Economic Modelling",
+    "doi": "",
+    "tags": [
+      "production networks",
+      "labor share",
+      "bargaining"
+    ],
+    "abstract": "Bargaining power is a key determinant of workers’ share of aggregate income, yet difficult to measure empirically. This study proposes input specificity as an important determinant of bargaining power, arguing that the production of harder-to-substitute intermediates strengthens workers’ bargaining position. We develop a network-based measure of input specificity and apply it to regional input–output data for European economies. Our results suggest that input specificity varies systematically across regions and is positively associated with the labor share. We find evidence that the relationship between input specificity and the labor share is stronger under coordinated wage bargaining, indicating that institutional settings condition how structural positions in production networks translate into income for workers. From a policy perspective, upgrading strategies that increase input specificity may support higher labor shares, particularly in contexts where institutions enable workers to capture the associated rents",
+    "figure": "assets/figures/samartzidis-mundt-schulz-production-networks-labor-share-v2.webp",
+    "related": [],
+    "themes": [
+      "macro",
+      "history"
+    ]
+  },
+  {
+    "slug": "mayerhoffer-et-al-polarisation-through-homophily",
+    "pdf": "mayerhoffer-et-al-polarisation-through-homophily.pdf",
+    "title": "Polarisation through Homophily: A Generative Algorithm",
+    "authors": "Daniel M. Mayerhoffer, Moritz A. Schulz, Simon Scheller & Jan Schulz",
+    "year": 2026,
+    "group": "Manuscripts & working papers",
+    "status": "R&R",
+    "venue": "Manuscript · R&R at Network Science",
+    "doi": "",
+    "tags": [
+      "polarisation",
+      "homophily",
+      "networks"
+    ],
+    "abstract": "This paper presents a generative algorithm for simulating network polarisation based on attitudinal homophily, i.e., the tendency to connect to others with similar attitudes as oneself. To do so, it applies the notion of preferential attachment to node properties other than degree, aiding intuitive communication within and beyond the network science community. The algorithm works with one or more flexibly weighted attitude dimensions, heterogeneous populations. The generated networks commonly share features of real-world social networks such as (weak) small-worldiness. They can contribute to how- possibly explanations of stylised empirical facts, especially when empirical network data is missing. An example on polarisation in Germany on migration attitudes is used to illustrate this. We find that homophily can generate patterns resembling empirically reported polarisation and individual perceptions, such as viewing one’s own opinion as moderate, over-estimating the actual level of societal polarisation, and dwindling open-mindedness towards others with different attitudes.",
+    "figure": "assets/figures/mayerhoffer-et-al-polarisation-through-homophily.webp",
+    "related": [],
+    "themes": [
+      "complexity"
+    ],
+    "projects": [
+      "e-lernen"
+    ]
+  },
+  {
+    "slug": "van-langenhove-lorenz-schulz-wealth-capital-gains-taxation",
+    "pdf": "van-langenhove-lorenz-schulz-wealth-capital-gains-taxation.pdf",
+    "title": "Wealth Taxation, Capital Gains Taxation and the Inequality–Mobility Trade-Off",
+    "authors": "Christophe Van Langenhove, Jan Lorenz & Jan Schulz",
+    "year": 2026,
+    "group": "Manuscripts & working papers",
+    "status": "R&R",
+    "venue": "Manuscript · R&R at Journal of Economic Behavior & Organization",
+    "doi": "",
+    "tags": [
+      "wealth taxation",
+      "inequality",
+      "mobility"
+    ],
+    "abstract": "We compare wealth taxes and capital gains taxes in a random growth model with id- iosyncratic investment risk. At equal tax revenue, wealth taxes generate higher wealth inequality than capital gains taxes, and higher wealth mobility wherever growth volatility is high enough. The mechanism is variance: wealth taxes shift the mean of post-tax wealth growth and raise its variance, while capital gains taxes compress the upper tail and reduce variance. Lower variance narrows the stationary distribution, reducing wealth inequality, but slows wealth rank changes, reducing wealth mobility, and at a baseline calibration the variance effect dominates. Policymakers who value both low wealth inequality and high wealth mobility therefore face a trade-off. The trade-off is robust to type and scale de- pendence in returns, hand-to-mouth agents, aggregate risk and tax progressivity, and full deductibility of capital losses below a two percent effective tax rate",
+    "figure": "assets/figures/van-langenhove-lorenz-schulz-wealth-capital-gains-taxation.webp",
+    "related": [],
+    "themes": [
+      "inequality",
+      "complexity"
+    ]
+  },
+  {
+    "slug": "schulz-ipsen-poor-households-weight-of-inflation",
+    "pdf": "schulz-ipsen-poor-households-weight-of-inflation.pdf",
+    "title": "Poor Households and the Weight of Inflation",
+    "authors": "Jan Schulz & Leonhard Ipsen",
+    "year": 2026,
+    "group": "Manuscripts & working papers",
+    "status": "Submitted",
+    "venue": "Submitted",
+    "doi": "",
+    "tags": [
+      "inflation",
+      "inequality",
+      "households"
+    ],
+    "abstract": "Lower-income households systematically report higher perceived and expected inflation, even though household-specific basket inflation varies little across income groups. We propose budget-weighted inflation, which measures the increase in the cost of a fixed consumption basket relative to current income, as a proxy for the material pressure of inflation on household resources. Using microdata for ten euro-area countries, we show that budget-weighted inflation closely reproduces the income gradient in inflation perceptions and expectations, unlike conventional household-specific inflation measures. The result is robust across alternative specifications and supported by household-level evidence linking tighter budget commitments to higher inflation reports and stronger adjustment to price changes.",
+    "figure": "assets/figures/schulz-ipsen-poor-households-weight-of-inflation.webp",
+    "related": [
+      [
+        "FMM Working Paper 106",
+        "https://www.imk-boeckler.de/de/faust-detail.htm?sync_id=HBS-008927"
+      ]
+    ],
+    "themes": [
+      "macro",
+      "inequality"
+    ],
+    "projects": [
+      "e-lernen"
+    ]
+  },
+  {
+    "slug": "schulz-memmen-ipsen-sellers-inflation",
+    "pdf": "schulz-memmen-ipsen-sellers-inflation.pdf",
+    "title": "Sellers' Inflation beyond Collusion: Schumpeter meets Lerner",
+    "authors": "Jan Schulz, Marvin Memmen & Leonhard Ipsen",
+    "year": 2026,
+    "group": "Manuscripts & working papers",
+    "status": "Submitted",
+    "venue": "Submitted",
+    "doi": "",
+    "tags": [
+      "inflation",
+      "markups",
+      "agent-based modelling"
+    ],
+    "abstract": "The relationship between firm markups and inflation remains contested. We develop a demand- side explanation for markup dynamics in times of inflation that distinguishes two opposing effects of price dispersion on consumer search. Higher dispersion can raise the cost of comparing sellers, but it can also raise the inclusive-value benefit of searching more broadly because low-price options become more valuable. We develop a two-stage random-utility formulation that yields cost- dominant, neutral, and benefit-dominant search regimes. Depending on which channel dominates, consumers’ consideration sets shrink or grow following an increase in price dispersion. We embed these regimes in an agent-based model with heterogeneous firms, variable markups, and firm- specific exit tolerance. Following a heterogeneous cost shock, sellers’ inflation—operationalized as an excess pass-through of an input cost shock to output prices—emerges in the cost-dominant and, more moderately, in the neutral regime, but disappears or reverses when the benefit channel expands consideration sets. The benefit-dominant regime also generates the highest aggregate productivity and market concentration, while markups and profits are lowest. Concentration is therefore benign in this regime: it reflects stronger selection toward productive, low-price firms rather than greater discretionary pricing power. The model consequently provides a microfoundation for why concentration, market power, and allocative efficiency need not move together during cost shocks",
+    "figure": "assets/figures/schulz-memmen-ipsen-sellers-inflation.webp",
+    "related": [],
+    "themes": [
+      "macro",
+      "complexity"
+    ]
+  },
+  {
+    "slug": "schulz-et-al-gendered-occupational-titles",
+    "pdf": "schulz-et-al-gendered-occupational-titles.pdf",
+    "title": "Gendered Occupational Titles and Perceived Pay",
+    "authors": "Jan Schulz, Daniel M. Mayerhoffer, Hannah E. Olbrich, Margitta Grötsch & Marie Lou Hartmann",
+    "year": 2026,
+    "group": "Manuscripts & working papers",
+    "status": "Working paper",
+    "venue": "Working paper",
+    "doi": "",
+    "tags": [
+      "gender",
+      "wage perceptions",
+      "experiment"
+    ],
+    "abstract": "We study whether gender enters beliefs about the economic returns associated with occupa- tions. Adults and adolescents in Germany were randomly assigned to estimate the earnings of five occupations presented with either masculine or feminine titles. Masculine titles raise perceived pay by 11.3 percent among adults and 7.9 percent among adolescents. Among adults the effect is similar for male and female respondents; among adolescents it is approximately zero for boys and 16.1 percent for girls. Title effects also vary sharply across occupations. We benchmark this heterogeneity against occupation-specific male–female pay differences from administrative earnings data and a DAX CEO compensation study. Actual gaps are positively aligned with adult title effects but cannot account for their occupational pattern: occupations with nearly identical observed gender gaps generate radically different experimental responses. The results imply that gender is part of the prior people attach to the economic value of an occupation rather than merely a reflection of known wage differences. They also have a measurement implication: the linguistic form used to elicit labor-market beliefs can materially change the beliefs researchers observe. 1",
+    "figure": "assets/figures/schulz-et-al-gendered-occupational-titles.webp",
+    "related": [],
+    "themes": [
+      "inequality"
+    ],
+    "projects": [
+      "e-lernen"
+    ]
+  },
+  {
+    "slug": "schulz-agoha-mayerhoffer-intersectional-wage-inequality",
+    "pdf": "schulz-agoha-mayerhoffer-intersectional-wage-inequality.pdf",
+    "title": "Intersectional Privilege and Aggregate Wage Inequality",
+    "authors": "Jan Schulz, Caleb E. Agoha & Daniel M. Mayerhoffer",
+    "year": 2026,
+    "group": "Manuscripts & working papers",
+    "status": "Working paper",
+    "venue": "Working paper",
+    "doi": "",
+    "tags": [
+      "intersectionality",
+      "wages",
+      "inequality"
+    ],
+    "abstract": "Research on intersectional wage gaps usually asks whether workers who combine marginalised identities face a wage penalty beyond the separate penalties associated with each identity. We examine the same nonadditivity from the opposite corner of the wage structure and ask how it relates to aggregate wage inequality. Using 26.5 million observa- tions from the 1980–2024 U.S. Census and American Community Survey, we construct a no-interaction wage benchmark for White men from the observed wages of White women, Black or Hispanic men, and Black or Hispanic women. The resulting White-male premium is positive over almost the full wage distribution, particularly at higher wage ranks, and remains economically significant after conditioning on worker and job characteristics. Removing this interaction lowers the Gini coefficient of the complete eligible-worker distribution by about 3 per cent. Redistributing the excess privilege to the other groups leads to substantially larger reductions. The results connect intersectional wage structure to aggregate inequality and highlight the distributional role of multiply advantaged groups",
+    "figure": "assets/figures/schulz-agoha-mayerhoffer-intersectional-wage-inequality.webp",
+    "related": [],
+    "themes": [
+      "inequality"
+    ]
+  },
+  {
+    "slug": "schulz-fetai-gebhard-milakovic-aggregating-microeconomic-shocks",
+    "pdf": "schulz-fetai-gebhard-milakovic-aggregating-microeconomic-shocks.pdf",
+    "title": "Aggregating Microeconomic Shocks in Production Networks",
+    "authors": "Jan Schulz, Omer Fetai, Anna Gebhard & Mishael Milaković",
+    "year": 2026,
+    "group": "Manuscripts & working papers",
+    "status": "Working paper",
+    "venue": "Working paper · version 10 September 2026",
+    "doi": "",
+    "tags": [
+      "production networks",
+      "aggregation",
+      "business cycles"
+    ],
+    "abstract": "Recent theoretical advances have called the invariance of sales shares with respect to productivity differences into question, arguing that sizable higher-order macroeconomic effects may emerge when sales shares react to productivity shocks. Here we propose a parsimonious model for the adjustment of sales shares in response to productivity shocks, and operationalize it to readily quantify the impact of idiosyncratic shocks on aggregate fluctuations. Using input-output data for the European (EU28) economy, we find that our model significantly outperforms recently suggested specifications that rely either on the granularity of sales shares or the heavily skewed distribution of connections in production networks. While our results confirm earlier findings in the sense that microeconomic shocks are an important driver of macroeconomic fluctuations, we demonstrate that previous approaches substantially underestimate their relative impact because they fail to account for the interaction of granularity and network effects. Our main empirical finding is that idiosyncratic shocks to about three percent of industries already explain more than two thirds of the business cycle once we account for this interaction. ∗We thank Simone Alfarano, Herbert Dawid, Sebastian Gechert, Alexander Hempfing, Tim Hagenhoff, Tomasz Makarewicz, Philipp Mundt, Christian Proa˜no and Frank Westerhoff, as well as participants at the Workshop on Heterogeneous Interacting Agents in London in 2019 and Ancona in 2026, the First Behavioral Macroeconomics Workshop in Bamberg in 2019, the conference of the Forum for Macroeconomics and Macroeconomic Policies in Berlin in 2019, and the International Workshop on Economic Complexity and Macroeconomic Dynamics in Valencia in 2025, for helpful comments and discussions. We gratefully acknowledge financial support from the Hans-B¨ockler-Foundation through grant PK045. 1",
+    "figure": "assets/figures/schulz-fetai-gebhard-milakovic-aggregating-microeconomic-shocks.webp",
+    "related": [],
+    "themes": [
+      "macro",
+      "complexity"
+    ]
+  },
+  {
+    "slug": "schulz-local-gini-social-sampling",
+    "pdf": "schulz-local-gini-social-sampling.pdf",
+    "title": "Local Gini Estimation under Social Sampling: Rank-Dependent Underestimation and Inequality Order Reversals",
+    "authors": "Jan Schulz",
+    "year": 2026,
+    "group": "Manuscripts & working papers",
+    "status": "Submitted",
+    "venue": "Submitted",
+    "doi": "",
+    "tags": [
+      "inequality measurement",
+      "social sampling",
+      "Gini"
+    ],
+    "abstract": "We study inequality measurement under socially constrained observability and introduce a local Gini coefficient computed on ego-centered comparison sets, rep- resented as fixed-width rank windows along Pen’s income parade. For a linear parade, the discrete sliding-window local Gini admits an exact closed form and is strictly below the population Gini, with rank monotonicity. For curved parades, the paper uses a first-order quantile approximation to derive explicit rank profiles for exponential and Pareto regimes and validates these profiles against finite-sample sliding-window Ginis in simulations. The framework implies systematic rank het- erogeneity in locally perceived inequality, inequality order reversals across societies relative to population Ginis (including majority misranking in the Pareto–linear comparison for 1 < α < 2 in the continuous-rank sense), and subunit-elastic local responses to changes in inequality within the Pareto family",
+    "figure": "assets/figures/schulz-local-gini-social-sampling.webp",
+    "related": [],
+    "themes": [
+      "inequality",
+      "complexity"
+    ]
+  },
+  {
+    "slug": "schulz-weber-2025-power-laws-socio-economics",
+    "pdf": "schulz-weber-2025-power-laws-socio-economics.pdf",
+    "title": "Power Laws in Socio-Economics",
+    "authors": "Jan Schulz & Jan David Weber",
+    "year": 2025,
+    "group": "Manuscripts & working papers",
+    "status": "Submitted",
+    "venue": "Submitted",
+    "doi": "https://hdl.handle.net/10419/314423",
+    "tags": [
+      "power laws",
+      "inequality",
+      "complexity"
+    ],
+    "abstract": "Power laws are pervasive in economics and the social sciences, particularly in the upper tails of distributions such as wealth, income, firm size, and city populations. Their scale-free property makes them a useful framework for understanding phenomena spanning several orders of magnitude. This chapter reviews their mathematical and often counterintuitive statistical properties, empirical evidence, estimation challenges, and stochastic generating processes, with particular emphasis on firm size, wealth, income, concentration, and inequality.",
+    "figure": "assets/figures/schulz-weber-2025-power-laws-socio-economics.webp",
+    "related": [],
+    "themes": [
+      "complexity"
+    ],
+    "projects": [
+      "e-lernen"
+    ]
+  },
+  {
+    "slug": "mayerhoffer-olbrich-schulz-tisch-perceptions-wealth-inequality",
+    "pdf": "mayerhoffer-olbrich-schulz-tisch-perceptions-wealth-inequality.pdf",
+    "title": "Perceptions of Wealth (Inequality)",
+    "authors": "Daniel M. Mayerhoffer, Hannah E. Olbrich, Jan Schulz & Daria Tisch",
+    "year": 2026,
+    "group": "Editorials & other writing",
+    "status": "Editorial",
+    "venue": "Editorial for the special issue in Historical Social Research",
+    "doi": "",
+    "tags": [
+      "wealth inequality",
+      "perceptions"
+    ],
+    "abstract": "This editorial motivates the study of perceptions of wealth and wealth inequality. It argues that perceptions are essential for understanding how wealth inequalities arise, how they persist, and why measured wealth inequality may be misaligned with public beliefs about it. The contribution discusses conceptual definitions and implications of wealth, explains why perceptions matter, and outlines strategies for studying wealth perceptions while introducing the contributions to the special issue.",
+    "figure": "assets/figures/mayerhoffer-olbrich-schulz-tisch-perceptions-wealth-inequality.webp",
+    "related": [],
+    "themes": [
+      "inequality"
+    ],
+    "projects": [
+      "spine"
+    ]
+  },
+  {
+    "slug": "schulz-hoette-mayerhoffer-2024-pluralist-economics-polycrisis",
+    "pdf": "schulz-hoette-mayerhoffer-2024-pluralist-economics-polycrisis.pdf",
+    "title": "Pluralist Economics in an Era of Polycrisis",
+    "authors": "Jan Schulz, Kerstin Hötte & Daniel M. Mayerhoffer",
+    "year": 2024,
+    "group": "Editorials & other writing",
+    "status": "Editorial",
+    "venue": "Review of Evolutionary Political Economy 5: 201–218",
+    "doi": "https://doi.org/10.1007/s43253-024-00128-y",
+    "tags": [
+      "pluralism",
+      "polycrisis",
+      "methodology"
+    ],
+    "abstract": "Interacting crises at economic, societal, ecological, and geopolitical levels reveal the fragility of connected global systems and give momentum to pluralist economic thinking as a suitable approach to address the complexity and uncertainty of today’s economy. This special issue (SI) explores how young economists, educated in this era, study economic phenomena through pluralist lenses. Due to the structure of interde- pendent crises and inherent uncertainty, pluralism of values, theory and methods may beneﬁt the academic and policy debate on solutions for today’s political, social, and scientiﬁc challenges. Applied to the crisis context, this SI shows a range of research methods and interdisciplinary approaches, reﬂecting a shift in economic thinking that embraces the complexity, limited predictability, and fragility of socioeconomic sys- tems.TheSIaimstopromoteadialogueacrossschoolsofeconomicthoughttoenhance our understanding and contribute to robust and inclusive policy",
+    "figure": "assets/figures/schulz-hoette-mayerhoffer-2024-pluralist-economics-polycrisis-v2.webp",
+    "related": [],
+    "themes": [
+      "history"
+    ]
+  },
+  {
+    "slug": "mayerhoffer-schulz-tisch-2023-fehlwahrnehmungen-ueberreichtum",
+    "pdf": "mayerhoffer-schulz-tisch-2023-fehlwahrnehmungen-ueberreichtum.pdf",
+    "title": "Fehlwahrnehmungen von „Überreichtum“",
+    "authors": "Daniel Mayerhoffer, Jan Schulz & Daria Tisch",
+    "year": 2023,
+    "group": "Editorials & other writing",
+    "status": "Essay",
+    "venue": "AK Essaypreis zum Thema „Überreichtum“ · Anerkennungspreis 2023",
+    "doi": "",
+    "tags": [
+      "wealth",
+      "perceptions",
+      "public economics"
+    ],
+    "abstract": "Der Essay untersucht Fehlwahrnehmungen von Reichtum und Überreichtum, ihre Ursachen und ihre politischen Folgen. Im Mittelpunkt stehen soziale Segregation, schwer vorstellbare Reichtumsdimensionen, mediale Vermittlung und meritokratische Rechtfertigungsmuster. Diese Faktoren prägen Wahrnehmungen von Vermögensungleichheit und können politische Meinungsbildung und die Unterstützung von Vermögens- und Erbschaftssteuern beeinflussen. Der Beitrag diskutiert außerdem Ansatzpunkte für Forschung, Wissenschaftskommunikation und Bildung.",
+    "figure": "assets/figures/mayerhoffer-schulz-tisch-2023-fehlwahrnehmungen-ueberreichtum.webp",
+    "related": [
+      [
+        "AK Essaypreis",
+        "https://wien.arbeiterkammer.at/essaypreis"
+      ]
+    ],
+    "themes": [
+      "inequality",
+      "history"
+    ]
+  },
+  {
+    "slug": "schulz-weber-2023-complexity-economics-teaching",
+    "pdf": "schulz-weber-2023-complexity-economics-teaching.pdf",
+    "title": "Is It Simple? Is It Complicated? No, It’s Complexity Economics!",
+    "authors": "Jan Schulz & Jan David Weber",
+    "year": 2023,
+    "group": "Editorials & other writing",
+    "status": "Teaching essay",
+    "venue": "Teaching Heterodox Economics Magazine 1(1)",
+    "doi": "https://doi.org/10.6084/M9.FIGSHARE.24175059",
+    "tags": [
+      "teaching",
+      "complexity economics",
+      "pluralism"
+    ],
+    "abstract": "Economic complexity is an interdisciplinary approach to explaining and analysing socioeconomic mechanisms in systems with heterogeneous agents, bounded rationality, interaction, and emergence. The contribution discusses how complexity economics can be taught in both heterodox and orthodox programmes, with particular emphasis on intuitive models, hands-on computer work, methodological pluralism, and the opportunities created by its interdisciplinary character.",
+    "figure": "assets/figures/schulz-weber-2023-complexity-economics-teaching.webp",
+    "related": [],
+    "themes": [
+      "complexity",
+      "history"
+    ]
+  },
+  {
+    "slug": "olbrich-hartmann-mayerhoffer-schulz-2026-tied-to-reality",
+    "pdf": "",
+    "title": "Tied to Reality? A Network-based Approach to Inequality Perceptions in the Classroom",
+    "authors": "Hannah E. Olbrich, Marie Lou Hartmann, Daniel M. Mayerhoffer & Jan Schulz",
+    "year": 2026,
+    "group": "Work in Progress",
+    "status": "Work in Progress",
+    "venue": "Work in Progress",
+    "doi": "",
+    "tags": [
+      "inequality perceptions",
+      "education",
+      "networks"
+    ],
+    "abstract": "Developed within e-lernen, this project studies how adolescents perceive inequality in classroom and peer-network contexts, and whether local reference groups shape perceived economic reality.",
+    "figure": "assets/figures/olbrich-hartmann-mayerhoffer-schulz-2026-tied-to-reality.webp",
+    "related": [],
+    "themes": [
+      "inequality"
+    ],
+    "projects": [
+      "e-lernen"
+    ]
+  },
+  {
+    "slug": "schulz-tsoukli-2026-military-risk-first-world-war",
+    "pdf": "",
+    "title": "Class, Inequality, and the Social Organization of Military Risk in the First World War",
+    "authors": "Jan Schulz & Xenia (Xanthi) Tsoukli",
+    "year": 2026,
+    "group": "Work in Progress",
+    "status": "Work in Progress",
+    "venue": "Work in Progress",
+    "doi": "",
+    "tags": [
+      "war",
+      "inequality",
+      "historical data"
+    ],
+    "abstract": "This project builds new large-scale historical microdata from First World War casualty lists to study whether military risk was socially stratified across the German Empire and Austria-Hungary.",
+    "figure": "assets/figures/schulz-tsoukli-2026-military-risk-first-world-war.webp",
+    "related": [],
+    "themes": [
+      "history",
+      "inequality"
+    ],
+    "projects": [
+      "wwi-casualties"
+    ]
+  },
+  {
+    "slug": "schulz-2026-telephone-directory-panel",
+    "pdf": "",
+    "title": "German Telephone-Book Panel",
+    "authors": "Jan Schulz",
+    "year": 2026,
+    "group": "Work in Progress",
+    "status": "Work in Progress",
+    "venue": "Work in Progress",
+    "doi": "",
+    "tags": [
+      "telephone books",
+      "segregation",
+      "mobility"
+    ],
+    "abstract": "This project constructs a long-run panel from German telephone directories in order to study the spatial distribution of high-status households, local segregation patterns and persistence over time.",
+    "figure": "assets/figures/schulz-2026-telephone-directory-panel.webp",
+    "related": [],
+    "themes": [
+      "history",
+      "inequality"
+    ],
+    "projects": [
+      "telephonebook-panel"
+    ]
+  },
+  {
+    "slug": "schulz-fetai-secchi-alfarano-milakovic-2026-insular-profitability-regimes",
+    "pdf": "",
+    "title": "Insular Profitability Regimes in France 1903 - 1952",
+    "authors": "Jan Schulz, Omer Fetai, Angelo Secchi, Simone Alfarano & Mishael Milaković",
+    "year": 2026,
+    "group": "Work in Progress",
+    "status": "Work in Progress",
+    "venue": "Work in Progress",
+    "doi": "",
+    "tags": [
+      "profitability",
+      "firms",
+      "historical data"
+    ],
+    "abstract": "Using newly digitised historical balance-sheet data, this MECAPHIST project examines the distribution of firm profitability in France and asks whether relatively stable profitability regimes emerge across firms and over time.",
+    "figure": "assets/figures/schulz-fetai-secchi-alfarano-milakovic-2026-insular-profitability-regimes.webp",
+    "related": [],
+    "themes": [
+      "history",
+      "complexity"
+    ],
+    "projects": [
+      "mecaphist"
+    ]
+  },
+  {
+    "slug": "olbrich-mayerhoffer-hartmann-schulz-2026-networks-of-tunnels",
+    "pdf": "",
+    "title": "Networks of Tunnels: Localised Perceptions and the Inequality-Wellbeing Link",
+    "authors": "Hannah E. Olbrich, Daniel M. Mayerhoffer, Marie Lou Hartmann & Jan Schulz",
+    "year": 2026,
+    "group": "Work in Progress",
+    "status": "R&R",
+    "venue": "R&R at American Behavioral Scientist (invited special-issue contribution)",
+    "doi": "",
+    "tags": [
+      "wellbeing",
+      "inequality",
+      "networks"
+    ],
+    "abstract": "This paper revisits Hirschman’s tunnel effect by embedding perceptions of inequality and mobility in local social networks, linking visible reference-group incomes and mobility expectations to individual subjective wellbeing.",
+    "figure": "assets/figures/olbrich-mayerhoffer-hartmann-schulz-2026-networks-of-tunnels-v2.webp",
+    "related": [],
+    "themes": [
+      "inequality",
+      "complexity"
+    ],
+    "projects": [
+      "e-lernen"
+    ]
+  },
+  {
+    "slug": "dix-ipsen-schulz-2026-inflation-decomposition",
+    "pdf": "",
+    "title": "Decomposing the Distributional Effects of Supply- and Demand-Side Price Shocks: An SVAR Perspective",
+    "authors": "Jonas Dix, Leonhard Ipsen & Jan Schulz",
+    "year": 2026,
+    "group": "Work in Progress",
+    "status": "Work in Progress",
+    "venue": "Work in Progress",
+    "doi": "",
+    "tags": [
+      "inflation",
+      "distribution",
+      "SVAR"
+    ],
+    "abstract": "This project decomposes the distributional effects of supply- and demand-side price shocks and tracks how the burden of inflation differs across the income distribution over time.",
+    "figure": "assets/figures/dix-ipsen-schulz-2026-inflation-decomposition.webp",
+    "related": [],
+    "themes": [
+      "macro",
+      "inequality"
+    ],
+    "projects": []
+  }
+]
