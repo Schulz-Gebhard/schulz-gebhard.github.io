@@ -15,7 +15,7 @@ Static GitHub Pages website. No build system is required.
 
 ## Research files
 
-Paper PDFs are in `files/papers/`; representative figures and Work-in-Progress visuals are in `assets/figures/`. Work-in-Progress entries intentionally do not contain paper PDF links. The EAEPE 2026 programme is in `files/conferences/`.
+Paper PDFs are in `files/papers/`; research figures and Work-in-Progress visuals are in `assets/figures/`. Work-in-Progress entries do not contain paper PDF links. The EAEPE 2026 programme is in `files/conferences/`.
 
 ## Deployment
 
@@ -26,6 +26,6 @@ Upload the contents of this folder to the root of a GitHub repository and enable
 - Research can be filtered by four broad themes and by publication type, including a separate `Work in Progress` category.
 - Six Work-in-Progress / R&R entries are shown with visuals but without manuscript PDFs.
 - Funded projects are cross-linked to the corresponding publications and ongoing work.
-- Project and conference branding includes the supplied e-lernen, SPINE, Social Comparisons and Pluralumn* visuals.
+- Project and conference branding includes e-lernen, SPINE, Social Comparisons and Pluralumn* visuals.
 - Co-author links prefer personal or current institutional profiles where available.
 - The Service page documents ZGF work, the SN Business & Economics editorial role, other academic service and memberships.

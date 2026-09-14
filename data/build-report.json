@@ -5,5 +5,8 @@
   "paper_figures": 33,
   "project_logos": 3,
   "conference_visuals": 2,
-  "missing_relative_links": []
+  "missing_relative_links": [],
+  "bad_local_anchors": [],
+  "nested_links": [],
+  "public_internal_memo_hits": 0
 }
